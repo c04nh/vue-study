@@ -1,4 +1,7 @@
 # vue-study
+업무 적응을 위한 Vue.js 공부
+<br>
+참고 강의 : https://youtu.be/b0ImUEsqaAA
 
 ## Project setup
 ```
